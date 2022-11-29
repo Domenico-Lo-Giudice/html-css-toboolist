@@ -1,7 +1,21 @@
     /* CSS Reset */
-    
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+
+#logo {
+    height: 100px;
+    margin-left: 40px;
+    
+}
+
+#logo-title {
+    display: inline;
+    position: relative;
+    bottom: 30px;
+    font-size: 60px;
 }
