@@ -56,7 +56,9 @@ header.second-header {
 .corpo {
     text-align: center;
     background-color: white;
-    padding-right: 40%;
+    padding-right: 44.5%;
+    height: 800px;
+    
 
 }
 
@@ -154,3 +156,4 @@ header.second-header {
 .colore-testo {
     color: white;
 }
+
