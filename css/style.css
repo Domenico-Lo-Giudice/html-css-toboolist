@@ -17,13 +17,13 @@ header.main-header {
 #logo {
     height: 100px;
     margin-left: 40px;
+    vertical-align: middle;
     
 }
 
 #logo-title {
     display: inline;
-    position: relative;
-    bottom: 30px;
+    vertical-align: middle;
     font-size: 60px;
 }
 
@@ -63,7 +63,7 @@ header.second-header {
 }
 
 .editorial {
-    
+
     border-radius: 20px;
     padding: 5px;
     border-color: transparent;
